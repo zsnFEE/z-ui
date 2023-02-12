@@ -1,9 +1,9 @@
 {
-  "name": "zsn-ui",
-  "version": "0.0.1",
+  "name": "z-ui",
+  "version": "1.0.0",
   "private": false,
   "author": "zhaosinan",
-  "description": "zsn-ui测试",
+  "description": "zsn-ui",
   "main": "lib/zsn-ui.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
