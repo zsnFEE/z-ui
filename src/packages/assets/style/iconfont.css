@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3888465 */
+  src: url('iconfont.woff2?t=1675999471685') format('woff2'),
+       url('iconfont.woff?t=1675999471685') format('woff'),
+       url('iconfont.ttf?t=1675999471685') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-minus_circle_line:before {
+  content: "\e76c";
+}
+
+.icon-rss_line:before {
+  content: "\e64a";
+}
+
+.icon-add_circle_line:before {
+  content: "\e715";
+}
+
+.icon-about_line:before {
+  content: "\e716";
+}
+
+.icon-add_line:before {
+  content: "\e719";
+}
+
+.icon-address_book_line:before {
+  content: "\e71a";
+}
+
+.icon-airplay_line:before {
+  content: "\e71b";
+}
+
+.icon-aim_line:before {
+  content: "\e71c";
+}
+
+.icon-adjust_line:before {
+  content: "\e71d";
+}
+
+.icon-android_line:before {
+  content: "\e71e";
+}
+
+.icon-alert_line:before {
+  content: "\e71f";
+}
+
+.icon-arow_to_up_line:before {
+  content: "\e720";
+}
+
+.icon-alarm_2_line:before {
+  content: "\e721";
+}
+
+.icon-applet_line:before {
+  content: "\e722";
+}
+
+.icon-announcement_line:before {
+  content: "\e723";
+}
+
+.icon-apple_line:before {
+  content: "\e724";
+}
+
+.icon-arrow_down_circle_line:before {
+  content: "\e725";
+}
+
+.icon-arrow_down_line:before {
+  content: "\e726";
+}
+
+.icon-arrow_left_circle_line:before {
+  content: "\e727";
+}
+
+.icon-arrow_right_circle_line:before {
+  content: "\e729";
+}
+
+.icon-arrow_up_circle_line:before {
+  content: "\e72a";
+}
+
+.icon-arrow_right_line:before {
+  content: "\e72b";
+}
+
+.icon-article_line:before {
+  content: "\e72d";
+}
+
+.icon-at_line:before {
+  content: "\e72e";
+}
+
+.icon-arow_to_down_line:before {
+  content: "\e730";
+}
+
+.icon-activity_line:before {
+  content: "\e731";
+}
+
+.icon-close_circle_line:before {
+  content: "\e72c";
+}
+
+.icon-search_arc_line:before {
+  content: "\e7eb";
+}
+
+.icon-arrow_left_line:before {
+  content: "\e717";
+}
+
+.icon-arrow_up_line:before {
+  content: "\e718";
+}
+
